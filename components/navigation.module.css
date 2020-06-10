@@ -1,0 +1,7 @@
+.nav {
+  button {
+    & + button {
+      margin-top: 8px;
+    }
+  }
+}

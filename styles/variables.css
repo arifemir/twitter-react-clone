@@ -1,0 +1,11 @@
+:root {
+  --c-primary: #000;
+  --c-theme: rgba(29, 161, 242, 1);
+  --c-theme-20: rgba(29, 161, 242, 0.2);
+  --border-color: #2f3336;
+  --c-gray: #6e767d;
+  --c-dark-gray: #202327;
+  --c-text-color: #ffffff;
+
+  --fade: 120ms;
+}
