@@ -2,7 +2,6 @@
   position: relative;
   display: flex;
   align-items: center;
-  color: var(--c-text-color);
   padding: 10px;
   border-radius: 99px;
   transition: var(--fade);
