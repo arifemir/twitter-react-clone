@@ -1,5 +1,6 @@
 import React from 'react'
 import * as Icons from '../components/icons'
+import Photo from '../components/photo'
 
 export default {
   title: 'Icons'
@@ -36,4 +37,7 @@ export const Icon = () => (
     <Icons.TimelineProp />
     <Icons.Twitter />
   </div>
+)
+export const ProfilePhoto = () => (
+  <Photo src="https://pbs.twimg.com/profile_images/1063166968767885314/VNU_rYIa_400x400.jpg" />
 )
